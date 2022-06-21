@@ -1,0 +1,2 @@
+# nvim-autobracket
+autobrackets
